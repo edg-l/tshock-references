@@ -5,6 +5,7 @@
     <version>1.0.2</version>
     <authors>Ryozuki</authors>
     <owners>Ryozuki</owners>
+    <projectUrl>https://github.com/Ryozuki/tshock-references</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Contains necessary dlls for creating a TShock Plugin</description>
     <releaseNotes>Update</releaseNotes>
