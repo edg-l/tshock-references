@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>Ryozuki.TShockPlugin</id>
-    <version>1.0.4</version>
+    <version>1.2.0</version>
     <authors>Edgar Luque</authors>
     <projectUrl>https://github.com/edg-l/tshock-references</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
